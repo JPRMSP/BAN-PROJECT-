@@ -1,0 +1,12 @@
+ 
+streamlit
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+tensorflow
+torch
+Pillow
+requests
+plotly
